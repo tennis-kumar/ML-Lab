@@ -17,5 +17,5 @@
 #### -> steps to install those modules , pip install 'module_name'
 
 ## Feel free to use
-#let me know about any bugs/issues
+# let me know about any bugs/issues
 # Contributions are accepted, fork and merge
