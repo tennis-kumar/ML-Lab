@@ -4,7 +4,7 @@
 ### all programs (1 - 10) are present in the AI-Ml_Lab.ipynb  file
 ### all others are dependencies needed for their execution
 
-### Note - Output values may vary for few programs
+# -> Note - Output values may vary for few programs
 
 ## Pre-requisites before executing the programs
 
