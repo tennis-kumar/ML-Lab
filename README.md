@@ -4,9 +4,11 @@
 ### all programs (1 - 10) are present in the AI-Ml_Lab.ipynb  file
 ### all others are dependencies needed for their execution
 
-## Pre-requisites before executing the pgms
+### Note - Output values may vary for few programs
 
-#### (for pgm 7)Microsoft Visual Studio Build tools - https://visualstudio.microsoft.com/visual-cpp-build-tools/
+## Pre-requisites before executing the programs
+
+#### (for pgm 7) Microsoft Visual Studio Build tools - https://visualstudio.microsoft.com/visual-cpp-build-tools/
 
 #### -> Python / anaconda navigator
 
